@@ -65,3 +65,52 @@ int *getCharNum(char *filename, int *totalNum){
     }
     return totalNum;
 }
+
+**输入文档Bgaylo.txt
+An empty street An empty house
+A hole inside heart
+I'm all alone and the rooms
+Are getting smaller
+I wonder how I wonder why
+I wonder where they are
+The days we had
+The songs we sang together
+And oh! my love
+I'm holding on forever
+Reaching for a love
+That seems so far
+So I say a litter prayer
+No my dream will take me there
+Where the skies are blue to see you
+once again my love
+Overseas from coast to coast
+Find a place I love the most
+Where the fields are green
+To see you once again
+
+
+**显示
+Input file name: bgaylo.txt
+line   words  chars
+1      6      25
+2      4      16
+3      6      22
+4      3      17
+5      6      20
+6      5      19
+7      4      12
+8      5      22
+9      4      12
+10     4      19
+11     4      16
+12     4      14
+13     6      19
+14     7      24
+15     8      28
+16     4      15
+17     5      24
+18     7      22
+19     5      22
+20     5      17
+Total: 20 lines, 102 words, 385 chars
+请按任意键继续. . .
